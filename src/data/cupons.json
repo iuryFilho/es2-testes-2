@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "codigo": "CUPOM10P",
+        "tipo": "percentual",
+        "desconto": 10
+    },
+    {
+        "id": 2,
+        "codigo": "CUPOM15",
+        "tipo": "fixo",
+        "desconto": 15
+    }
+]
